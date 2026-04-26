@@ -2,7 +2,7 @@
 
 A comprehensive Google Colab inference notebook for every pretrained **Mask2Former** checkpoint available on HuggingFace. Supports **Semantic**, **Panoptic**, and **Instance** segmentation across multiple benchmark datasets — all without writing a single line of code.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Mask2Former_Comprehensive_Playground_.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AditPradana36/m2f_playground/blob/main/Mask2Former_Comprehensive_Playground_.ipynb)
 
 ---
 
